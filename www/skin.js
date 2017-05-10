@@ -1,6 +1,6 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.2 beta3/15913
-// Filename: AirBnB_Listings_demo_v1.6.ggsk
+// Filename: Ademo_v1.6.ggsk
 // Generated Tue May 9 15:04:10 2017
 
 function pano2vrSkin(player,base) {
