@@ -1,8 +1,8 @@
 # 360 Client Viewer
 
-## Usage
+## Usage iOS, Android, Windows
 
-### PhoneGap CLI
+### Hangar 360 Client Viewer
 
     $ small app to view Hangar 360's
 
