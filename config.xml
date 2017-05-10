@@ -2,9 +2,9 @@
 <widget id="com.hangar.hangarclientviewer" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Hangar-Client-Viewer</name>
     <description>
-        A blank PhoneGap app.
+        A small app for Hangar Clients to viewer their 360's
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="support@hangar.com" href="http://hangar.com">
         PhoneGap Team
     </author>
     <content src="index.html" />
