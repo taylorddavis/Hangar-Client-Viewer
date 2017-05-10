@@ -5,7 +5,7 @@
         A small app for Hangar Clients to viewer their 360's
     </description>
     <author email="support@hangar.com" href="http://hangar.com">
-        PhoneGap Team
+        Hangar Team
     </author>
     <content src="index.html" />
     <access origin="*" />
