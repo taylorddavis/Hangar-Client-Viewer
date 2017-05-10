@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"type": "panorama",
+	"external": {
+		"js": [
+			"https://maps.googleapis.com/maps/api/js?v=3.exp&key=\nAIzaSyDUC5VLOMyvTioW76JZoiV2HtSkJIUI-q8"
+		],
+		"css": []
+	},
+	"skin": {
+		"js": "skin.js"
+	},
+	"player": {
+		"js": "pano2vr_player.js"
+	},
+	"creationdate": "2017-05-09T20:04:25.946Z",
+	"configuration": "pano.xml",
+	"preview": {
+		"img": "preview.jpg",
+		"width": 900,
+		"height": 500
+	}
+}
