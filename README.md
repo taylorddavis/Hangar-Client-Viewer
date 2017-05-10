@@ -1,10 +1,10 @@
-# A Blank PhoneGap App
+# 360 Client Viewer
 
 ## Usage
 
 ### PhoneGap CLI
 
-    $ phonegap create my-app --template blank
+    $ small app to view Hangar 360's
 
 ### Desktop
 
